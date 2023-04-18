@@ -51,4 +51,7 @@ Specify the channel ID of the channel in which you want to record logs. `line 21
 channel = bot.get_channel(id)
 ```
 
+Also in your bot's settings, enable these settings.
+![](https://cdn.discordapp.com/attachments/1014200166473023540/1097855958333526026/2023-04-18_190721.png) 
+ 
 </details>
