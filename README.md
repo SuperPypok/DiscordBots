@@ -3,6 +3,8 @@
 <details>
 <summary>DiscordSpamer</summary> 
 
+  https://github.com/SuperPypok/DiscordBots/blob/main/DiscordSpamer.py
+  
 ## !WARNING!
 This tool is just for improve your programming knowledge, so nothing abuse of this program is not related to the developer!
 
@@ -29,6 +31,8 @@ await channel.send("text")
 <details>
 <summary>logger</summary> 
 
+  https://github.com/SuperPypok/DiscordBots/blob/main/logger.py
+  
 ![](https://media.discordapp.net/attachments/1014200166473023540/1097838882537611325/2023-04-18_151032.png)
 
 ![](https://media.discordapp.net/attachments/1014200166473023540/1097838882290151424/2023-04-18_151133.png)
