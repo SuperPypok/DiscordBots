@@ -8,7 +8,6 @@
 ## !WARNING!
 This tool is just for improve your programming knowledge, so nothing abuse of this program is not related to the developer!
 
-## Code review:
 Enter the token of your discard bot here. `line 4`
 ```py
 token = "token"
@@ -40,7 +39,6 @@ await channel.send("text")
 ![](https://media.discordapp.net/attachments/1014200166473023540/1097838882818637854/2023-04-18_151312.png)
 ![](https://cdn.discordapp.com/attachments/1014200166473023540/1097843975647395910/2023-04-18_174906.png)
   
-## Code review:
 Enter the token of your discard bot here. `line 7`
 ```py
 token = "token"
