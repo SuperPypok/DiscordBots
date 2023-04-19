@@ -7,7 +7,7 @@ bot = discord.Client(intents=intents)
 
 @bot.event
 async def on_ready():
-    channel = bot.get_channel(1085938113420988506) # Your channel id
+    channel = bot.get_channel(id) # Your channel id
     # for guild in bot.guilds:        # These two lines are responsible for displaying the
     #     print(guild.name)           # names of all those servers where the bot is present.
     guild = bot.guilds[0] # Get the first guild the bot is connected to
