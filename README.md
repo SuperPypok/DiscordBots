@@ -74,7 +74,7 @@ Also in your bot's settings, enable these settings.
 This tool is just for improve your programming knowledge, so nothing abuse of this program is not related to the developer!
 
 ## About:
-A bot that spams text that the user has given it in a given channel. The bot also endlessly creates new text channels, the name can also be set to your own.
+A bot that spams text that the user has given it in a given channel. The bot also endlessly creates new text channels, the name can also be set to your own. <br/> Video: https://youtu.be/NC9CW0VwpEY
 
 ## IMPORTANT:
 Enable these settings in your bot before running the code.
