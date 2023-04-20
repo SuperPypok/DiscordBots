@@ -1,5 +1,27 @@
-# DiscordBots
+# Discord bots
 
+## Additional functions:
+
+<details>
+<summary>Banned channels</summary> 
+
+ ## About:
+ This function can be used in the "logger" template to prevent the bot from writing information from certain channels to the logs.
+  
+ ## code:
+ ```py
+banned_channels = [id, id, id]
+if message.channel.id in banned_channels:
+    return
+ ```
+ `banned_channels` is a variable, its name can be changed. In it, using an array ( `[]` ), the IDs of the channels in which publication is banned are written. <br/> Important: enter channel IDs as numbers, not as strings.
+  
+## Example:
+![](https://cdn.discordapp.com/attachments/1014200166473023540/1098501595546791946/2023-04-20_134022.png)
+  
+</details>
+  
+## Bot templates:
 <details>
 <summary>DiscordSpamer</summary> 
 
