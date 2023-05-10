@@ -20,6 +20,25 @@ if message.channel.id in banned_channels:
 ![](https://cdn.discordapp.com/attachments/1014200166473023540/1098501595546791946/2023-04-20_134022.png)
   
 </details>
+
+<details>
+<summary>List of servers that host the bot</summary>
+ 
+ ## About:
+ This function can be used to display the names of servers that have a bot. The script only runs when the bot is turned on.
+ 
+ ## Code:
+ ```py
+@bot.event
+async def on_ready():
+    server_list = []  # Creating a list where the names of the servers will be stored.
+    for guild in bot.guilds:            # The cycle through which the names
+        server_list.append(guild.name)  # are written to the list `sever_list`.
+    print('Bot {0.user}'.format(bot), 'successfully launched!')  # Message about the successful launch of the bot.
+    print("List of servers the bot is added to: {}".format(", ".join(server_list)))  # List output.
+```
+ 
+</details>
   
 ## Bot templates:
 <details>
