@@ -152,7 +152,7 @@ bot.run("YOUR TOKEN")
  ![](https://cdn.discordapp.com/attachments/970979048626978816/1109382078027542689/2023-05-20_140800.jpg)
  
  ## About:
- Administrator is a bot for Discord with basic commands for moderating the server.
+ Administrator is a bot for Discord with basic commands for moderating the server. <br/> Video: https://www.youtube.com/watch?v=Fw92TK42xMk
  
  ## IMPORTANT:
 - Create a muta role on your discord server and web it via the `/select_mr` command in the bot.
