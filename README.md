@@ -149,7 +149,9 @@ bot.run("YOUR TOKEN")
  
  https://github.com/SuperPypok/DiscordBots/blob/main/Administrator.py
  
- ![](https://cdn.discordapp.com/attachments/970979048626978816/1109382078027542689/2023-05-20_140800.jpg)
+ <p align="center">
+  <img width="484" height="79" src="https://cdn.discordapp.com/attachments/970979048626978816/1109382078027542689/2023-05-20_140800.jpg">
+</p>
  
  ## About:
  Administrator is a bot for Discord with basic commands for moderating the server. <br/> Video: https://www.youtube.com/watch?v=Fw92TK42xMk
