@@ -94,4 +94,4 @@ async def untimeout(ctx, member: disnake.Member = commands.Param(description="В
 
 
 
-bot.run("MTEwOTE4NjcwODU1NTE5MDM4Mw.Gqv7w8.9hD3W4JQJFzrY8zUqZ3XQuWt_XXwkLtzE9dEus")
+bot.run("token")
