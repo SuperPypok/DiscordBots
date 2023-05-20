@@ -141,5 +141,33 @@ Enter the token of your discard bot here. `line 18`
 ```py
 bot.run("YOUR TOKEN")
 ```  
-
+ 
+</details>
+ 
+<details>
+<summary>Administrator</summary> 
+ 
+ https://github.com/SuperPypok/DiscordBots/blob/main/Administrator.py
+ 
+ ![](https://cdn.discordapp.com/attachments/970979048626978816/1109382078027542689/2023-05-20_140800.jpg)
+ 
+ ## About:
+ Administrator is a bot for Discord with basic commands for moderating the server.
+ 
+ ## IMPORTANT:
+- Create a muta role on your discord server and web it via the `/select_mr` command in the bot.
+- Enable these settings in your bot before running the code.
+![](https://cdn.discordapp.com/attachments/1014200166473023540/1097855958333526026/2023-04-18_190721.png)
+ 
+## Code:
+ In "test_guilds", None only if you want to make a public bot. If not, make a list consisting of the id of the servers the bot should run on ( `[id, id]` ). (line 6)
+ ```py
+bot = commands.Bot(command_prefix="!", help_command=None, intents=disnake.Intents.all(), test_guilds=None)
+```
+ 
+Enter the token of your discard bot here. `line 97`
+```py
+bot.run("token")
+```  
+ 
 </details
